@@ -10,12 +10,12 @@ import psycopg2
 # =========================================================
 
 st.set_page_config(
-    page_title="MocPhuong Analytics",
+    page_title="MocPhuong Data Analytics",
     page_icon="🪑",
     layout="wide"
 )
 
-st.title("Mộc Phương Analytics", icon=":material/analytics:")
+st.title("Mộc Phương Data Analytics", icon=":material/analytics:")
 st.caption("Dashboard thống kê dữ liệu cửa hàng nội thất Mộc Phương")
 
 
